@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          Deploy react application
         </p>
         <a
           className="App-link"
@@ -18,6 +19,7 @@ function App() {
           Learn React
         </a>
         <p>GO?</p>
+        <p>Hosting</p>
       </header>
     </div>
   );

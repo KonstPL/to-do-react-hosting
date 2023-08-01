@@ -20,6 +20,7 @@ function App() {
         </a>
         <p>GO?</p>
         <p>Hosting</p>
+        <p>Netlify</p>
       </header>
     </div>
   );
